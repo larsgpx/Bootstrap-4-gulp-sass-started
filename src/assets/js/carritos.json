@@ -1,0 +1,92 @@
+[
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "ano": 2019,
+      "kilometraje": "menos de 5000 Km",
+      "version": "1.4 TFSI AMBITION",
+      "precio": "USD 20,416-24,244"
+    },
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "ano": 2019,
+      "kilometraje": "menos de 5000 Km",
+      "version": "1.4 TFSI ATTRACTION",
+      "precio": "USD 21,056-25,004"
+    },
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A2",
+      "ano": 2019,
+      "kilometraje": "menos de 5000 Km",
+      "version": "1.4 TFSI AMBITION",
+      "precio": "USD 20,516-24,244"
+    },
+    {
+      "Id": "",
+      "marca": "BMW",
+      "modelo": "114l",
+      "ano": 2015,
+      "kilometraje": "menos de 10000 Km",
+      "version": "1.4 TFSI ATTRACTION",
+      "precio": "USD 21,056-25,004"
+    },
+    {
+        "Id": "",
+        "marca": "BMW",
+        "modelo": "116l",
+        "ano": 2015,
+        "kilometraje": "menos de 10000 Km",
+        "version": "1.4 TFSI ATTRACTION",
+        "precio": "USD 23,056-25,004"
+      },
+      {
+        "Id": "",
+        "marca": "BMW",
+        "modelo": "118l",
+        "ano": 2015,
+        "kilometraje": "menos de 10000 Km",
+        "version": "1.4 TFSI ATTRACTION",
+        "precio": "USD 25,056-25,004"
+      },
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "ano": 2019,
+      "kilometraje": "menos de 15000 Km",
+      "version": "1.4 TFSI AMBITION",
+      "precio": "USD 19,599-23,274"
+    },
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "ano": 2019,
+      "kilometraje": "menos de 15000 Km",
+      "version": "1.4 TFSI ATTRACTION",
+      "precio": "USD 20,214-24,004"
+    },
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "ano": 2019,
+      "kilometraje": "menos de 20000 Km",
+      "version": "1.4 TFSI AMBITION",
+      "precio": "USD 18,783-22,304"
+    },
+    {
+      "Id": "",
+      "marca": "AUDI",
+      "modelo": "A1",
+      "ano": 2019,
+      "kilometraje": "menos de 20000 Km",
+      "version": "1.4 TFSI ATTRACTION",
+      "precio": "USD 19,372-23,004"
+    }
+]

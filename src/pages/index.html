@@ -1,10 +1,42 @@
 <div class="card">
     <div class="card-header">
-        test
+        VENDO MI AUTO        
     </div>
-    <div class="card-body">
-        <h4 class="card-title">Special title treatment</h4>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+    <div class="card-body row">
+        <div class="dropdown p-1">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="sel-marca" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              selecciona la marca
+            </button>
+            <div class="dropdown-menu" id="ul-marca" aria-labelledby="sel-marca">              
+              <!-- <a class="dropdown-item" href="#">Something else here</a> -->
+            </div>
+          </div>
+          <div class="dropdown p-1">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="sel-modelo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                selecciona el modelo
+              </button>
+              <div class="dropdown-menu" aria-labelledby="sel-modelo" id="ul-modelo">                
+                <!-- <a class="dropdown-item" href="#">Something else here</a>                 -->
+              </div>
+          </div>
+          <div class="dropdown p-1">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="sel-ano" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                año de fabricación
+              </button>
+              <div class="dropdown-menu" aria-labelledby="sel-ano" id="ul-ano">                
+                <!-- <a class="dropdown-item" href="#">Something else here</a> -->
+              </div>
+          </div>
+          <div class="dropdown p-1">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="sel-kilometraje" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Kilometraje
+              </button>
+              <div class="dropdown-menu" aria-labelledby="sel-kilometraje" id="ul-kilometraje">                
+                <!-- <a class="dropdown-item" href="#">Something else here</a> -->
+              </div>
+          </div>          
+    </div>
+    <div class="card-body row">
+      <h4 class="text-center p-4" id="car-price"></h4>
     </div>
 </div>
